@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the time complexity of binary search?",
+    "options": ["O(n)", "O(log n)", "O(n^2)", "O(n log n)"],
+    "answer": "O(log n)"
+  },
+  {
+    "question": "Which data structure uses LIFO (Last In First Out)?",
+    "options": ["Queue", "Array", "Stack", "Linked List"],
+    "answer": "Stack"
+  },
+  {
+    "question": "What does SQL stand for?",
+    "options": ["Structured Query Language", "Structured Question Language", "Simple Query Language", "Simple Question Language"],
+    "answer": "Structured Query Language"
+  },
+  {
+    "question": "Which of the following is not a programming language?",
+    "options": ["Python", "HTML", "Java", "C++"],
+    "answer": "HTML"
+  },
+  {
+    "question": "Which of the following is a NoSQL database?",
+    "options": ["MySQL", "MongoDB", "PostgreSQL", "Oracle"],
+    "answer": "MongoDB"
+  },
+  {
+    "question": "What does HTTP stand for?",
+    "options": ["HyperText Transfer Protocol", "HyperText Transmission Protocol", "HyperText Transport Protocol", "HyperText Transaction Protocol"],
+    "answer": "HyperText Transfer Protocol"
+  },
+  {
+    "question": "What is the primary purpose of DNS?",
+    "options": ["To translate domain names to IP addresses", "To secure data transmission", "To manage database transactions", "To connect devices to the internet"],
+    "answer": "To translate domain names to IP addresses"
+  },
+  {
+    "question": "Which sorting algorithm has the best average time complexity?",
+    "options": ["Bubble Sort", "Quick Sort", "Insertion Sort", "Selection Sort"],
+    "answer": "Quick Sort"
+  },
+  {
+    "question": "What is polymorphism in Object-Oriented Programming?",
+    "options": ["A feature that allows one interface to be used for a general class of actions", "A feature that allows a class to inherit from multiple classes", "A feature that binds the code and data together", "A feature that hides the implementation details from the user"],
+    "answer": "A feature that allows one interface to be used for a general class of actions"
+  },
+  {
+    "question": "Which protocol is used to send email?",
+    "options": ["FTP", "SMTP", "HTTP", "IMAP"],
+    "answer": "SMTP"
+  }
+]
